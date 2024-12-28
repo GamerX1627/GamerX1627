@@ -2,7 +2,7 @@
 - 👀 I’m interested in devlopment, cybersecurity, and Game Design
 - 🌱 I’m currently learning java, html, css, javascript.
 - 💞️ I’m looking for people who can help me learn programming and cyber security
-- 📫 How to reach me contact me on my mail ishigi667@gmail.com
+- 📫 How to reach me you can send me private message on my github account
 - 😄 Pronouns: he
 - ⚡ Fun fact: i'm a noob with programming 
 
